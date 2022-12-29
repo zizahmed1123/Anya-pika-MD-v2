@@ -8,7 +8,7 @@ global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or
              global.botname = "Queen Anya" 
              global.ownernumber = ['393516093315'] // Owner number //
              global.vcardowner = ['393278169630'] // vcard owner number //
-             global.ownername = "3.69_Pika" // Owner name //
+             global.ownername = "RIUMA" // Owner name //
              global.ytname = "YT: ONYXPIKA" // Yt chanel name //
              global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4" // Github or insta name //
              global.location = "India, Assam, Dibrugarh" // Location //
@@ -27,9 +27,9 @@ global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or
 global.prefa = ['/','-']
 
 //--------Random bot name for Info section--------\\
-name16 = "𓄂⍣⃝ 🇦𝚗𝚢𝚊 𓆩×͜×𓆪ꪾ️"
-name17 = "*Λ⃝ͷ🇾Λ 𓆩×͜×𓆪ꪾ*"
-name18 = "*Λ⃝ͷʏΛ 𓆩×͜×𓆪ꪾ*"
+name16 = "RIUMA"
+name17 = "*RIUMA*"
+name18 = "*RIUMA*"
 
 //--------Random footer message-----------\\
 footer1 = `𓄂⍣⃝🇦𝚗𝚢𝚊ㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
