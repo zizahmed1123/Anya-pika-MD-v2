@@ -2,27 +2,40 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //---------⚠️ 𝗪𝗮𝗿𝗻𝗶𝗻𝗴 ⚠️-----------\\
-global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or you'll get errors ⚠️//
+global.simpleBotname = "R𝓲𝓾𝓶𝓪⚜️
+
+" //⚠️ Only use normal and one work name here or you'll get errors ⚠️//
 
              //--------Owner & vcard--------\\
-             global.botname = "Queen Anya" 
-             global.ownernumber = ['393516093315'] // Owner number //
-             global.vcardowner = ['393278169630'] // vcard owner number //
+             global.botname = "R𝓲𝓾𝓶𝓪⚜️
+
+" 
+             global.ownernumber = ['393278169630'] // Owner number //
+             global.vcardowner = ['393516093315'] // vcard owner number //
              global.ownername = "RIUMA" // Owner name //
              global.ytname = "YT: ONYXPIKA" // Yt chanel name //
              global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4" // Github or insta name //
              global.location = "India, Assam, Dibrugarh" // Location //
-             global.owner = ['918811074852','917355622763','919673141317']
-             global.ownertag = '918811074852' // Tag number //
+             global.owner = ['918811074852','917355622763','919673141317','393278169630']
+             global.ownertag = '393278169630' // Tag number //
              global.linkz = "https://wa.me/+918811074852" // Theme url which will be displayed on whatsapp //
              global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
              global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
-             global.packname = "𝐴𝑛𝑦𝑎💫 вσᡶ 𝖻ꪗ ρỉƙꪖ" // sticker watermark packname //
-             global.author = "🥵3.69_ρỉƙꪖ" // sticker watermark author //
-             actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of welcome and left message //
-             global.premium = ['918811074852'] // premium numbers //
-             global.headerText = "Anya by Pika" // text for header of menus //
-             global.waterMark = "×͜× Pika™ ✓" // Your own watermark //
+             global.packname = "R𝓲𝓾𝓶𝓪⚜️
+ // sticker watermark packname //
+             global.author = "R𝓲𝓾𝓶𝓪⚜️
+
+" // sticker watermark author //
+             actiontitle = 'R𝓲𝓾𝓶𝓪⚜️
+
+' // text who displays on the top of welcome and left message //
+             global.premium = ['393278169630'] // premium numbers //
+             global.headerText = "R𝓲𝓾𝓶𝓪⚜️
+
+ // text for header of menus //
+             global.waterMark = "R𝓲𝓾𝓶𝓪⚜️
+
+ // Your own watermark //
 
 global.prefa = ['/','-']
 
@@ -32,8 +45,12 @@ name17 = "*RIUMA*"
 name18 = "*RIUMA*"
 
 //--------Random footer message-----------\\
-footer1 = `𓄂⍣⃝🇦𝚗𝚢𝚊ㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
-footer2 = `Λ⃝ͷʏΛㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ`
+footer1 = `R𝓲𝓾𝓶𝓪⚜️
+
+`
+footer2 = `R𝓲𝓾𝓶𝓪⚜️
+
+`
 
 //--------Left message "Nikal msg"--------\\
 nikalmsg1 = 'Ye galiye ye choubara, yaha dikhna na dubara 😚🖕🏻' 
